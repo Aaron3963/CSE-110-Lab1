@@ -21,6 +21,11 @@ Here is an [external link](https://aaron3963.github.io/) to my webpage.
 - 👽
 - 🤖
 
+## Task list
+- [ ] I need 💤
+- [ ] I need ☕
+- [x] I need 🧠
+
 ## Image
 ![Black's beach](img.jpg)
 
