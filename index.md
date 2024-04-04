@@ -1,4 +1,4 @@
-# CSE 110 Lab 1
+# CSE-110-LAB-1
 ## DEMO webpage
 This is a **demo** version of my *webpage*.
 > I have a built my webpage before.
